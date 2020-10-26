@@ -4,7 +4,7 @@ Text Mining on review data from IMDB. Using a Maxent classifier to predict the s
 
 ## Check out the md file.
 
-[Here's the Link to the md](https://github.com/abhishekmanglaa/credit-card-profittability/blob/main/credit-card-classification.md)
+[Here's the Link to the md](https://github.com/abhishekmanglaa/imdb-sentiment-analysis/blob/main/imdb-sentiment-analysis.md)
 
 ## Installation
 
